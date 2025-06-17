@@ -44,5 +44,15 @@ A full-stack **TO-DO List Application** built with **Vue.js**, **Node.js**, **Ex
 
 ---
 
-## 📁 Folder Structure
+## ⚙️ Setup Instructions
 
+### 🔧 Backend Setup (Node + Express)
+
+```bash
+cd mainfolder
+npm start
+
+🔧 Frontend Setup (VueJS)
+
+cd client
+npm run dev
