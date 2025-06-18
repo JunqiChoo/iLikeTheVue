@@ -7,7 +7,7 @@ app.use(express.json());
 
 
 app.use(cors({
-  origin: 'http://localhost:5173',
+  origin: 'http://localhost:5174',
   credentials: true // optional, if using cookies/auth
 }))
 app.use('/api/tasks',require("./routes/taskRoutes"))

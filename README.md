@@ -1,5 +1,8 @@
 # TO-DO Application
 
+# Screenshot
+![Desktop Screenshot](desktop_view.png)
+
 A full-stack **TO-DO List Application** built with **Vue.js**, **Node.js**, **Express**, and **MongoDB** that allows users to manage tasks with full **CRUD functionality** and real-time visual feedback via toast notifications.
 
 ---
