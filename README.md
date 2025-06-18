@@ -34,7 +34,7 @@ A full-stack **TO-DO List Application** built with **Vue.js**, **Node.js**, **Ex
 
 ---
 
-## 🔄 CRUD Functionality
+## CRUD Functionality
 
 | Operation | Description |
 |-----------|-------------|
@@ -45,15 +45,15 @@ A full-stack **TO-DO List Application** built with **Vue.js**, **Node.js**, **Ex
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
-### 🔧 Backend Setup (Node + Express)
+### Backend Setup (Node + Express)
 
 ```bash
 cd mainfolder
 npm start
 
-🔧 Frontend Setup (VueJS)
+ Frontend Setup (VueJS)
 
 cd client
 npm run dev
