@@ -4,7 +4,7 @@ A full-stack **TO-DO List Application** built with **Vue.js**, **Node.js**, **Ex
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Vue.js 3** (Composition API)
@@ -20,16 +20,17 @@ A full-stack **TO-DO List Application** built with **Vue.js**, **Node.js**, **Ex
 
 ---
 
-## ✨ Features
+## Features
 
-✅ Add new tasks  
-✅ View all tasks in a dynamic table  
-✅ Edit task descriptions  
-✅ Mark tasks as completed  
-✅ View completed vs pending breakdown  
-✅ Delete tasks  
-✅ Toast notifications for all actions  
-✅ Loading spinner for API calls  
+ Add new tasks  
+ View all tasks in a dynamic table  
+ Edit task descriptions  
+ Mark tasks as completed  
+ View completed vs pending breakdown  
+ Delete tasks  
+ Toast notifications for all actions  
+ Loading spinner  
+ Hiding table when there is no data available 
 
 ---
 
