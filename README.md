@@ -1,4 +1,4 @@
-# 📝 TO-DO Application
+# TO-DO Application
 
 A full-stack **TO-DO List Application** built with **Vue.js**, **Node.js**, **Express**, and **MongoDB** that allows users to manage tasks with full **CRUD functionality** and real-time visual feedback via toast notifications.
 
